@@ -3,5 +3,6 @@ public class Day3GitHub{
 		System.out.println("HI!");
 		System.out.println("Ria");
 		System.out.println("Partner A: NisargaShashidhar");
+		System.out.println("11/29/18");
 	}
 }
